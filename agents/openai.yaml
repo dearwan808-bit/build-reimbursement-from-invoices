@@ -1,0 +1,4 @@
+interface:
+  display_name: "发票报销单生成器"
+  short_description: "自动整理上传发票，生成报销明细、核验清单、重复检查和合计金额"
+  default_prompt: "使用 $build-reimbursement-from-invoices 处理我上传的发票，并生成可核验的 Excel 报销单。"
